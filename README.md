@@ -21,6 +21,18 @@ i am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
+  <h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm currently working on MERN Stack
+- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
+- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+
+<h2 align="left">:heart: Let's get connected:</h2>
+  
 - 💼 any freelance work? do reach, [email](mailto:getpoluy@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -37,17 +49,7 @@ i am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
-<h2 align="left">:heart: Let's get connected:</h2>
 
 
 
